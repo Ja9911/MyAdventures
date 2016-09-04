@@ -1,11 +1,11 @@
 import mcpi.minecraft as minecraft
 import time
 mc = minecraft.Minecraft.create()
-Y = 2
+Y = 3
 X1 = -58
 Z1 = 8
 X2 = -52
-Z2 = 15
+Z2 =  29
 rent = 0
 while True:
     time.sleep(1)

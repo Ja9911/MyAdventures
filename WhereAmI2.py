@@ -1,4 +1,4 @@
-eimport mcpi.minecraft as minecraft
+import mcpi.minecraft as minecraft
 import time
 mc = minecraft.Minecraft.create()
 while True:
